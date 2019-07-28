@@ -1,18 +1,23 @@
 --------------------------------------------------------------------
 Artist(s): The Lumineers
 Song Name: Ophelia
-Album Name: Cleopatra
+Album Name: Ophelia
 Preview Link: https://p.scdn.co/mp3-preview/d1204e9214afa804f2c74e5795441b75e7fc9e11?cid=684ab0385fe749acb5d041c01215f77f
 --------------------------------------------------------------------
 Artist(s): The Lumineers
 Song Name: Ophelia
-Album Name: Cleopatra (Deluxe)
+Album Name: Cleopatra
 Preview Link: https://p.scdn.co/mp3-preview/d1204e9214afa804f2c74e5795441b75e7fc9e11?cid=684ab0385fe749acb5d041c01215f77f
 --------------------------------------------------------------------
 Artist(s): Natalie Merchant
 Song Name: Kind & Generous
 Album Name: Ophelia
 Preview Link: https://p.scdn.co/mp3-preview/f2eef44afcb763d363d9e9bf0916977370a29802?cid=684ab0385fe749acb5d041c01215f77f
+--------------------------------------------------------------------
+Artist(s): Natalie Merchant
+Song Name: Ophelia
+Album Name: Ophelia
+Preview Link: https://p.scdn.co/mp3-preview/956139da84c8dc90cb19c57c019ab68d2939ef51?cid=684ab0385fe749acb5d041c01215f77f
 --------------------------------------------------------------------
 Artist(s): Irma Kantola
 Song Name: Ophelia
@@ -39,12 +44,145 @@ Song Name: Ophelia
 Album Name: Ophelia
 Preview Link: https://p.scdn.co/mp3-preview/d1204e9214afa804f2c74e5795441b75e7fc9e11?cid=684ab0385fe749acb5d041c01215f77f
 --------------------------------------------------------------------
-Artist(s): Natalie Merchant
-Song Name: Ophelia
-Album Name: Ophelia
-Preview Link: https://p.scdn.co/mp3-preview/956139da84c8dc90cb19c57c019ab68d2939ef51?cid=684ab0385fe749acb5d041c01215f77f
---------------------------------------------------------------------
 Artist(s): The Band
 Song Name: Ophelia - Remastered 2000
 Album Name: Northern Lights-Southern Cross (Expanded Edition)
 Preview Link: null
+--------------------------------------------------------------------
+Artist(s): The Lumineers
+Song Name: Ophelia
+Album Name: Cleopatra (Deluxe)
+Preview Link: https://p.scdn.co/mp3-preview/d1204e9214afa804f2c74e5795441b75e7fc9e11?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Movie Title: Titanic
+Year of Release: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country Produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+-------------------------------------------------------------------------------------------
+Movie Title: Pride
+Year of Release: 2014
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 91%
+Country Produced: UK, France
+Language: English, Welsh
+Plot: U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.
+Actors/Actresses: Ben Schnetzer, Abram Rooney, Jim McManus, George MacKay
+-------------------------------------------------------------------------------------------
+Venue Name: Summer Sonic Osaka [08.16 - 08.18]
+Venue Location: Higashi-osaka
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Singapore Grand Prix
+Venue Location: Singapore
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Summer Sonic Tokyo [08.16 - 08.18]
+Venue Location: Tokyo
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Ohana Festival [09.27 - 09.29]
+Venue Location: Dana Point
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Rock in Rio [09.27 - 10.06]
+Venue Location: Rio De Janeiro
+Date of the Event: 03-10-2019
+-------------------------------------------------------------------------------------------
+Venue Name: Summer Sonic Osaka [08.16 - 08.18]
+Venue Location: Higashi-osaka
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Singapore Grand Prix
+Venue Location: Singapore
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Rock in Rio [09.27 - 10.06]
+Venue Location: Rio De Janeiro
+Date of the Event: 03-10-2019
+-------------------------------------------------------------------------------------------
+Venue Name: Ohana Festival [09.27 - 09.29]
+Venue Location: Dana Point
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Venue Name: Summer Sonic Tokyo [08.16 - 08.18]
+Venue Location: Tokyo
+Date of the Event: Invalid date
+-------------------------------------------------------------------------------------------
+Artist: YFN Lucci
+Song Name: Everyday We Lit (feat. PnB Rock)
+Album Name: Long Live Nut
+Link: https://p.scdn.co/mp3-preview/a33dff1643811931e47c333e51854011110e5d21?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Lil Keed
+Song Name: Rockstar (feat. NAV)
+Album Name: Long Live Mexico
+Link: https://p.scdn.co/mp3-preview/d8f56ad63b5b55c5085c98444e0ea0e7e3f8ea36?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Lil Keed
+Song Name: Pull Up (feat. Lil Uzi Vert & YNW Melly)
+Album Name: Long Live Mexico
+Link: https://p.scdn.co/mp3-preview/8bf3b1e2f7b57eb61dc725f2e522e16fd0d9cfe1?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Link: null
+-------------------------------------------------------------------------------------------
+Artist: Harry Styles
+Song Name: Sign of the Times
+Album Name: Harry Styles
+Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Link: null
+-------------------------------------------------------------------------------------------
+Artist: Harry Styles
+Song Name: Sign of the Times
+Album Name: Harry Styles
+Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Lil Wayne
+Song Name: Scared of the Dark (feat. XXXTENTACION)
+Album Name: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Link: null
+-------------------------------------------------------------------------------------------
+Artist: Harry Styles
+Song Name: Sign of the Times
+Album Name: Harry Styles
+Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Ace of Base
+Song Name: All That She Wants
+Album Name: The Sign (US Album) [Remastered]
+Link: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=684ab0385fe749acb5d041c01215f77f
+-------------------------------------------------------------------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Album Name: Greatest Hits
+Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=684ab0385fe749acb5d041c01215f77f
