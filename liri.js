@@ -14,14 +14,14 @@ var userInput = process.argv[3];
 // switch statement to identify what the user is trying to look for
 // from there we can call the correct function to perform the desired task
 switch (userSearch) {
-    case 'concert-this':
-        showConcertInfo(userInput);
-        break;
     case 'spotify-this-song':
         showSongInfo(userInput);
         break;
     case 'movie-this':
         showMovieInfo(userInput);
+        break;
+    case 'concert-this':
+        showConcertInfo(userInput);
         break;
     case 'do-what-it-says':
         showDoInfo();
@@ -41,15 +41,15 @@ function showSongInfo(userInput) {
         .search({ type: 'track', query: userInput })
         .then(function (response) {
             for (var i = 0; i < 3; i++) {
-                var spotifyResults =
+                var songResults =
                     "-------------------------------------------------------------------------------------------" +
-                    "\nArtist: " + response.tracks.items[i].artists[0].name +
                     "\nSong Name: " + response.tracks.items[i].name +
+                    "\nArtist: " + response.tracks.items[i].artists[0].name +
                     "\nAlbum Name: " + response.tracks.items[i].album.name +
                     "\nLink: " + response.tracks.items[i].preview_url;
 
-                console.log(spotifyResults);
-                outputData(spotifyResults);
+                console.log(songResults);
+                outputData(songResults);
 
             }
         })
@@ -58,7 +58,8 @@ function showSongInfo(userInput) {
         });
 }
 
-// function to search OMDB database 
+// function to search OMDB database based on user input
+// if no user input, it will automatically search for the movie 'Mr. Nobody'
 function showMovieInfo(userInput) {
     if (!userInput) {
         userInput = "mr nobody";
